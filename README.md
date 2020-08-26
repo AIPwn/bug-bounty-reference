@@ -31,6 +31,10 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Money Stealing](#money-stealing)
 - [Miscellaneous](#miscellaneous)
 
+- [重点企业](#重点企业)
+  - [GitLab](#GitLab)
+
+
 ### Cross-Site Scripting (XSS)
 - [Content-Type that can be used for XSS](https://github.com/BlackFan/content-type-research/blob/master/XSS.md)
 
@@ -88,6 +92,19 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Brute-Forcing invite codes in partners.uber.com](https://hackerone.com/reports/144616) by Efkan Gökbaş (mefkan)
 
 ### SQL Injection
+
+- [] https://hackerone.com/reports/836079
+- [] https://hackerone.com/reports/838855
+- [] https://hackerone.com/reports/868436
+- [] https://hackerone.com/reports/824307
+- [] https://hackerone.com/reports/816254
+- [] https://hackerone.com/reports/816086
+- [] https://hackerone.com/reports/795291
+- [] https://hackerone.com/reports/383127
+- [] https://hackerone.com/reports/273946
+- [] https://hackerone.com/reports/298176
+
+
 - [x] [SQL injection in Wordpress Plugin Huge IT Video Gallery in Uber](https://hackerone.com/reports/125932) by glc
 - [x] [SQL Injection on sctrack.email.uber.com.cn](https://hackerone.com/reports/150156) by Orange Tsai
 - [x] [Yahoo – Root Access SQL Injection – tw.yahoo.com](http://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/) by Brett Buerhaus
@@ -332,3 +349,18 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [SAML Bible](https://blog.netspi.com/attacking-sso-common-saml-vulnerabilities-ways-find/)
 - [Bypassing Google’s authentication to access their Internal Admin panels — Vishnu Prasad P G](https://medium.com/bugbountywriteup/bypassing-googles-fix-to-access-their-internal-admin-panels-12acd3d821e3)
 - [Smart Contract Vulnerabilities](http://www.dasp.co/)
+
+
+## 重点企业
+
+### GitLab
+- [Full Read SSRF on Gitlab's Internal Grafana](https://hackerone.com/reports/878779)
+- [Arbitrary file read via the UploadsRewriter when moving and issue](https://hackerone.com/reports/827052)
+- [Send arbitrary PUT requests when user clicks on a link](https://hackerone.com/reports/824689)
+- [SSRF on project import via the remote_attachment_url on a Note](https://hackerone.com/reports/826361)
+- [Git flag injection - local file overwrite to remote code execution](https://hackerone.com/reports/658013)
+
+### Rust
+- [Smoke-testing Rust HTTP clients](https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6)
+- [How I’ve found vulnerability in a popular Rust crate ](https://medium.com/@shnatsel/how-ive-found-vulnerability-in-a-popular-rust-crate-and-you-can-too-3db081a67fb)
+- [Auditing popular Rust crates: how a one-line unsafe has nearly ruined everything](https://medium.com/@shnatsel/auditing-popular-rust-crates-how-a-one-line-unsafe-has-nearly-ruined-everything-fab2d837ebb1)
