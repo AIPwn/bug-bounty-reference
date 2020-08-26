@@ -361,6 +361,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Git flag injection - local file overwrite to remote code execution](https://hackerone.com/reports/658013)
 
 ### Rust
+- [rustsec advisories](https://rustsec.org/advisories/)
 - [Smoke-testing Rust HTTP clients](https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6)
 - [How I’ve found vulnerability in a popular Rust crate ](https://medium.com/@shnatsel/how-ive-found-vulnerability-in-a-popular-rust-crate-and-you-can-too-3db081a67fb)
 - [Auditing popular Rust crates: how a one-line unsafe has nearly ruined everything](https://medium.com/@shnatsel/auditing-popular-rust-crates-how-a-one-line-unsafe-has-nearly-ruined-everything-fab2d837ebb1)
