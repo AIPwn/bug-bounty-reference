@@ -32,6 +32,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Miscellaneous](#miscellaneous)
 
 ### Cross-Site Scripting (XSS)
+- [Content-Type that can be used for XSS](https://github.com/BlackFan/content-type-research/blob/master/XSS.md)
 
 - [Sleeping stored Google XSS Awakens a $5000 Bounty](https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/) by Patrik Fehrenbach
 - [RPO that lead to information leakage in Google](http://blog.innerht.ml/rpo-gadgets/) by filedescriptor
