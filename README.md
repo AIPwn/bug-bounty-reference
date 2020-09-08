@@ -235,10 +235,14 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [XXE through SAML](https://seanmelia.files.wordpress.com/2016/01/out-of-band-xml-external-entity-injection-via-saml-redacted.pdf)
 - [XXE in Uber to read local files](https://httpsonly.blogspot.hk/2017/01/0day-writeup-xxe-in-ubercom.html)
 
-### Unrestricted File Upload
-- [File Upload XSS in image uploading of App in mopub](https://hackerone.com/reports/97672) by vijay kumar 
-- [RCE deal to tricky file upload](https://www.secgeek.net/bookfresh-vulnerability/) by secgeek
-- [File Upload XSS in image uploading of App in mopub in Twitter](https://hackerone.com/reports/97672) by vijay kumar (vijay_kumar1110)
+### 文件上传
+
+- [X][RCE deal to tricky file upload](https://www.secgeek.net/bookfresh-vulnerability/) by secgeek 文件上传绕过
+- [X][File Upload XSS in image uploading of App in mopub in Twitter](https://hackerone.com/reports/97672) by vijay kumar (vijay_kumar1110) 没有检查上传内容
+- [ ] https://anotherhackerblog.com/exploiting-file-uploads-pt-2/    https://www.freebuf.com/vuls/214626.html
+- [ ] https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437   https://www.freebuf.com/vuls/223456.html
+- [ ] https://jspin.re/fileupload-blind-sqli/   https://www.freebuf.com/vuls/208362.html
+
 
 ### Server Side Request Forgery (SSRF)
 - [ESEA Server-Side Request Forgery and Querying AWS Meta Data](http://buer.haus/2016/04/18/esea-server-side-request-forgery-and-querying-aws-meta-data/) by Brett Buerhaus
