@@ -22,7 +22,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Stealing Access Token](#stealing-access-token)
   - [Google Oauth Login Bypass](#google-oauth-bypass)
 - [Server Side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
-- [Unrestricted File Upload](#unrestricted-file-upload)
+- [文件上传](#文件上传)
 - [Race Condition](#race-condition)
 - [Business Logic Flaw](#business-logic-flaw)
 - [Authentication Bypass](#authentication-bypass)
