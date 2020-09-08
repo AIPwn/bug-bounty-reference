@@ -237,11 +237,12 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 
 ### 文件上传
 
-- [X][RCE deal to tricky file upload](https://www.secgeek.net/bookfresh-vulnerability/) by secgeek 文件上传绕过
-- [X][File Upload XSS in image uploading of App in mopub in Twitter](https://hackerone.com/reports/97672) by vijay kumar (vijay_kumar1110) 没有检查上传内容
+- [x] [RCE deal to tricky file upload](https://www.secgeek.net/bookfresh-vulnerability/) by secgeek 文件上传绕过
+- [x] [File Upload XSS in image uploading of App in mopub in Twitter](https://hackerone.com/reports/97672) by vijay kumar (vijay_kumar1110) 没有检查上传内容
 - [ ] https://anotherhackerblog.com/exploiting-file-uploads-pt-2/    https://www.freebuf.com/vuls/214626.html
 - [ ] https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437   https://www.freebuf.com/vuls/223456.html
 - [ ] https://jspin.re/fileupload-blind-sqli/   https://www.freebuf.com/vuls/208362.html
+- [ ] https://hackerone.com/reports/764434   https://www.freebuf.com/vuls/232237.html
 
 
 ### Server Side Request Forgery (SSRF)
