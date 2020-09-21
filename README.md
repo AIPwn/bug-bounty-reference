@@ -243,7 +243,9 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [ ] https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437   https://www.freebuf.com/vuls/223456.html
 - [ ] https://jspin.re/fileupload-blind-sqli/   https://www.freebuf.com/vuls/208362.html
 - [ ] https://hackerone.com/reports/764434   https://www.freebuf.com/vuls/232237.html
-
+- [X] [HackerOne用户头像名称变化导致的DoS漏洞](https://www.freebuf.com/vuls/232237.html)
+- [X] [通过Vimeo的文件上传功能发现其SSRF漏洞（$5000）](https://www.freebuf.com/vuls/223456.html)
+- [x] [利用文件上传功能构造实现针对后端验证机制的RCE漏洞](https://www.freebuf.com/vuls/214626.html)
 
 ### Server Side Request Forgery (SSRF)
 - [ESEA Server-Side Request Forgery and Querying AWS Meta Data](http://buer.haus/2016/04/18/esea-server-side-request-forgery-and-querying-aws-meta-data/) by Brett Buerhaus
