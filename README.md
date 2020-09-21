@@ -38,6 +38,9 @@ A list of bug bounty write-up that is categorized by the bug nature, this is ins
 
 
 ### Cross-Site Scripting (XSS)
+
+- [$25K Instagram Almost XSS Filter Link — Facebook Bug Bounty](https://medium.com/@alonnsoandres/25k-instagram-almost-xss-filter-link-facebook-bug-bounty-798b10c13b83)
+
 - [Content-Type that can be used for XSS](https://github.com/BlackFan/content-type-research/blob/master/XSS.md)
 
 - [Sleeping stored Google XSS Awakens a $5000 Bounty](https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/) by Patrik Fehrenbach
